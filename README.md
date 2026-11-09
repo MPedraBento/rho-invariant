@@ -108,6 +108,6 @@ bash run_all.sh
 
 ## Citation
 
-M. P. Bento. A Geometric Invariant of Attention Identifies Head Specialization
+M. P. Bento. A Geometric Invariant of Attention Predicts Head Specialization
 from Weights Alone. Symmetry and Geometry in Neural Representations Workshop
 (NeurReps), NeurIPS 2026.
