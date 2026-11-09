@@ -1,0 +1,18 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-1.7B",
+  "scale_factor": 4.0,
+  "short_ctx": 512,
+  "long_ctx": 4096,
+  "baseline": {
+    "short_ppl": 13.692769771681885,
+    "long_ppl": 8.246943860415309
+  },
+  "yarn_all": {
+    "short_ppl": 17.91861609164725,
+    "long_ppl": 29.76448133871363
+  },
+  "yarn_targeted": {
+    "short_ppl": 16.3519274335618,
+    "long_ppl": 30.191883694304355
+  }
+}

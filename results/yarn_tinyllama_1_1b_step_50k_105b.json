@@ -1,0 +1,18 @@
+{
+  "model": "TinyLlama/TinyLlama-1.1B-step-50K-105b",
+  "scale_factor": 4.0,
+  "short_ctx": 512,
+  "long_ctx": 4096,
+  "baseline": {
+    "short_ppl": 13.95039054796396,
+    "long_ppl": 634.535249201599
+  },
+  "yarn_all": {
+    "short_ppl": 42.65438991690902,
+    "long_ppl": 258.11982659492685
+  },
+  "yarn_targeted": {
+    "short_ppl": 28.97488005011646,
+    "long_ppl": 252.53557151395998
+  }
+}

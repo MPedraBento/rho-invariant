@@ -1,0 +1,18 @@
+{
+  "model": "mistralai/Mistral-7B-v0.1",
+  "scale_factor": 4.0,
+  "short_ctx": 512,
+  "long_ctx": 4096,
+  "baseline": {
+    "short_ppl": 7.627957668968687,
+    "long_ppl": 5.437474200392825
+  },
+  "yarn_all": {
+    "short_ppl": 19.37031730995569,
+    "long_ppl": 162.96238535733633
+  },
+  "yarn_targeted": {
+    "short_ppl": 12.916857886706316,
+    "long_ppl": 130.33819409890808
+  }
+}
